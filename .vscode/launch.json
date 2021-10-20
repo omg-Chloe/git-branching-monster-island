@@ -1,0 +1,115 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SystemDriver",
+            "request": "launch",
+            "mainClass": "src.SystemDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemDriver",
+            "request": "launch",
+            "mainClass": "java.SystemDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemDriver",
+            "request": "launch",
+            "mainClass": "lib.SystemDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemDriver",
+            "request": "launch",
+            "mainClass": "SystemDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch GameDriver",
+            "request": "launch",
+            "mainClass": "Singleton.GameDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfaceLook",
+            "request": "launch",
+            "mainClass": "ProjectIntern.interfaceLook",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch HousePlanDriver",
+            "request": "launch",
+            "mainClass": "Factory.HousePlanDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoWayMsgServer",
+            "request": "launch",
+            "mainClass": "TwoWayMsgServer",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoWayMsgClient",
+            "request": "launch",
+            "mainClass": "TwoWayMsgClient",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch OneWayMesgServer",
+            "request": "launch",
+            "mainClass": "OneWayMesgServer",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch OneWayMesgClient",
+            "request": "launch",
+            "mainClass": "OneWayMesgClient",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookDriver",
+            "request": "launch",
+            "mainClass": "Observer.BookDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch FleetOfVehicles",
+            "request": "launch",
+            "mainClass": "FleetOfVehicles",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListDriver",
+            "request": "launch",
+            "mainClass": "strategy.ListDriver",
+            "projectName": "java_25bb4e46"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}"
+        }
+    ]
+}
